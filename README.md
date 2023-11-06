@@ -4,4 +4,4 @@ GameJam Event
 
 Team Name: WeTried
 
-Using Unity and Csharp
+Using Unity engine and Csharp language
