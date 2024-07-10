@@ -8,3 +8,10 @@ tried to make something with zero prior knowledge about game development. Though
 
 # A Short GamePlay 
 here https://youtu.be/HS-k-gobk_w
+
+
+## Contributors:
+Dipit Saha
+Shah Mohammad Abdul Mannan
+Ahnaf Tahmid
+Rafat Kabir
